@@ -5,6 +5,8 @@
 
 ![公众号](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)
 
+[我的个人技术博客](https://www.pyzhishiquan.com/)
+
 这次把前两次的程序做了优化并对程序做打包处理，打包后没有 Python 环境的电脑也可以正常运行程序了。前两篇关于抢票的文章没看可点下方链接查看。
 
 [用Python抢火车票加邮件通知](https://mp.weixin.qq.com/s?__biz=MzU4NjUxMDk5Mg==&mid=2247484924&idx=1&sn=b9d1e91f48208b21aded7a2a5bb5a075&chksm=fdfb6203ca8ceb15e068a1e05cce009a408d369353eed644b35d42f715f1f392be99bd328285&token=1637290204&lang=zh_CN#rd)
